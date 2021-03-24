@@ -20,7 +20,7 @@ PySocks==1.6.8
 pyTelegramBotAPI==3.6.6
 pytz==2018.5
 requests==2.19.1
-rsa==4.0
+rsa==4.1
 six==1.11.0
 Telethon==1.5.1
 TgCrypto==1.1.1
